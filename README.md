@@ -4,8 +4,11 @@ A side-scrolling video game, sometimes shortened to side-scroller, is a game in 
 
 ## 🌆Screenshots  
 
-![calculator](https://user-images.githubusercontent.com/106147027/183126186-10d6741d-4edb-41e9-8461-65d7c874ad68.png) 
+![image](https://user-images.githubusercontent.com/106147027/196521858-fcb403d9-3e78-48e7-adfd-15ac05688bc0.png)
+
+![image](https://user-images.githubusercontent.com/106147027/196522036-dc89a63b-0e57-420a-9219-35a41d9d3c31.png)
+
 
 ## 👇 Live Demo
 
-<p>To see a live preview of the project, click<a href="https://wizard-side-scrolling-game.netlify.app/"  target="_blank"> here</a>!</p>
+<p>To see a live preview of the game, click<a href="https://wizard-side-scrolling-game.netlify.app/"  target="_blank"> here</a>!</p>
