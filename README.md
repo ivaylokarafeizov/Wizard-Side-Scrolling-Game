@@ -6,6 +6,8 @@ A side-scrolling video game, sometimes shortened to side-scroller, is a game in 
 
 ![image](https://user-images.githubusercontent.com/106147027/196521858-fcb403d9-3e78-48e7-adfd-15ac05688bc0.png)
 
+![image](https://user-images.githubusercontent.com/106147027/196522481-f0ece892-5cde-4033-9d45-d8e482f49a50.png) 
+
 ![image](https://user-images.githubusercontent.com/106147027/196522036-dc89a63b-0e57-420a-9219-35a41d9d3c31.png)
 
 
